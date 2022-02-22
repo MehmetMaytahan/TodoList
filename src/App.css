@@ -7,36 +7,11 @@
 }
 .text-family {
   /* font-family: "Dancing Script", cursive; */
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  /* color: #75617c; */
-  /*  color: #c66b85; */
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   font-size: larger;
 }
 
 .bg-todo {
   background-color: #dfdfdf;
 }
-
-/* .todo {
-  background-color: chocolate;
-  border: 1px solid black;
-  border-radius: 10px;
-  padding: 20px 50px; 
-  min-width: 300px;
-  min-height: 50px;
-}
-
-.form {
-  display: flex;
-  justify-content: space-between;
-}
-
-li{
-  list-style: none;
-}
-
-.task-list {
-  display: flex;
-  justify-content: space-between;
-  margin: 10px 0px;
-} */

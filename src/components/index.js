@@ -6,7 +6,7 @@ function Todo() {
   const [task, setTask] = useState([]);
   return (
     <>
-      <div className="container w-50 npm ">
+      <div className="container-md">
         <div className="rounded bg-todo shadow-sm py-4 justify-content-center align-items-center overflow-auto">
           <Form addTask={setTask} task={task} />
           <FormList taskList={task} removeTask={setTask} />
